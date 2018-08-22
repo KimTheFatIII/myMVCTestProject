@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "login";
+}
+@model MVCWeb.Models.UserInfo
+<h2>login</h2>
+@*<div>
+    <input id="Text1" type="text" />
+    <input id="Password1" type="password" />
+    <input id="Button1" type="button" value="button" />
+    <input id="Checkbox1" type="checkbox" />
+</div>*@
+@using (Html.BeginForm())
+{
+    <ol>
+        <li>
+            @Html.LabelFor(x=>x.UserName)
+            @Html.TextBoxFor(x=>x.Password)
+            @Html.ValidationMessageFor(x=>x.UserName)
+        </li>
+        <li>
+            @Html.LabelFor(x=>x.Password)
+            @Html.PasswordFor(x=>x.Password)
+            @Html.ValidationMessageFor(x=>x.Password)
+        </li>
+    </ol>
+    <input type="submit" />
+}
