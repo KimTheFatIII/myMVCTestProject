@@ -179,8 +179,8 @@ E:\ProgramSource\myMVCTestProject\MVCWeb\bin\zh-Hans\System.Web.Mvc.resources.dl
 E:\ProgramSource\myMVCTestProject\MVCWeb\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 E:\ProgramSource\myMVCTestProject\MVCWeb\bin\zh-Hans\System.Web.Http.resources.dll
 E:\ProgramSource\myMVCTestProject\MVCWeb\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.csprojAssemblyReference.cache
 E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.csproj.CoreCompileInputs.cache
 E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.csproj.CopyComplete
 E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.dll
 E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.pdb
+E:\ProgramSource\myMVCTestProject\MVCWeb\obj\Debug\MVCWeb.csprojAssemblyReference.cache
