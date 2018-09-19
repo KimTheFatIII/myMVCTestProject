@@ -13,5 +13,10 @@ namespace MVCWeb.Controllers
         {
             return View();
         }
+
+        private void Test()
+        {
+
+        }
     }
 }
